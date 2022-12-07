@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700);
+.font {
+    font-family: "Quicksand", sans-serif;
+}
+
+.carousel-contain{
+    background:url("DESKTOP\ GAMER\ WALLPAPER\ 4K.png") no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-size-adjust: 40px;
+    text-align: center;
+    
+}
+
+.banner{
+    background:url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: white;
+    text-align: center;
+}
+
+.text-center,.display-1{
+    text-shadow: 3px;
+    font-family: "Audiowide";
+    font-weight: bold;
+    color: white;
+}
+.navbar-brand{
+    font-family: "Audiowide";
+    font-weight: bold;
+}
+.btn{
+    font-family: "Audiowide";
+    font-weight: bold;
+}
+
+.modal-title,.modal-body{
+    font-family:"Audiowide" ;
+    color: black
+}
+.footer{
+    background-color: black;
+}
